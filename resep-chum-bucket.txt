@@ -1,3 +1,6 @@
 bahan - bahan resep chum bucket
-1.daging
-2.sayur
+1. daging ikan
+2. kuning telor ayam
+3. stick kayu
+4. keju mozarella
+5. garam dapur
